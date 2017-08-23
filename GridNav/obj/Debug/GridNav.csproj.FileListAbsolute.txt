@@ -1,0 +1,10 @@
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\bin\Debug\GridNav.exe.config
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\bin\Debug\GridNav.exe
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\bin\Debug\GridNav.pdb
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.csprojResolveAssemblyReference.cache
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.Form1.resources
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.Properties.Resources.resources
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.Visualizer.Visualizer.resources
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.csproj.GenerateResource.Cache
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.exe
+h:\users\alex\documents\visual studio 2015\Projects\GridNav\GridNav\obj\Debug\GridNav.pdb
